@@ -1,0 +1,47 @@
+New sketch	shift	s
+
+line	l	
+
+corner rectangle	g
+	
+center point rectangle	r
+	
+center point circle	c
+	
+3 point circle	?	
+
+3 point arc	a
+	
+spline	shift	s
+
+point	shift	0
+
+text	shift	9
+
+construction	q
+	
+extend	x	
+
+trim	m	
+
+dimension	d
+	
+hide/show planes	p
+	
+extrude	shift	e
+
+revolve	shift	w
+
+hide/show sketches	shift	h
+
+chamfer	shift	8
+
+fillet	shift	f
+
+hole	shift	 =
+
+transform	shift	-
+
+undo	ctrl	z
+
+redo	ctrl	y
