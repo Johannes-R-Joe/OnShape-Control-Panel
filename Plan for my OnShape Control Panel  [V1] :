@@ -1,0 +1,44 @@
+Plan for my OnShape Control Panel  [V1] :
+
+Steps:
+
+list of all needes funktions with shortcuts
+create first prototype of casing with buttons and layout
+write code and test run (4.)
+create a prototype in a breadboard to see if everythng works
+create a pcb with all components that I need
+order PCB
+solder components to pcb
+test the circuit on the pcb without casing
+add final touches to the casing and print the final version
+connect circuit and casing together
+Done
+
+
+Parts:
+
+	Microcontroller (1x) possibillities:
+		Adruino Leonardo
+		Adruino Pro Micro
+		Rasperi Pi Pico
+		ESP32 S3
+
+
+	Buttons (1 for each Function)
+
+	toggle switch (on/off)
+
+	cable (connecting to pc)
+
+	filament for casing
+		PLA: Prototype
+		PETG: Final version
+			colors:
+				white (most of it)
+				black
+				dark blue
+				grey
+				light Blue
+
+
+	stutus led (red)
